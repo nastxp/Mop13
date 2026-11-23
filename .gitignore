@@ -1,0 +1,5 @@
+node_modules/
+# ficheros que genera el hosting en tiempo de ejecución
+*.log
+tmp/
+.env
